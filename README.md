@@ -16,3 +16,5 @@
 ![pbar](https://progress-bar.dev/30)
 * [Python. К вершинам мастерства](./Python.%20К%20вершинам%20мастерства/README.md)
 ![pbar](https://progress-bar.dev/8)
+* [Asyncio конкурентное программирование на Python](./Asyncio%20конкурентное%20программирование%20на%20Python/README.md) 
+![pbar](https://progress-bar.dev/5)
